@@ -1,0 +1,46 @@
+<resources>
+    <string name="app_name">Hangman</string>
+
+    <string-array
+        name="library">
+        <item>kontynent</item>
+        <item>pole</item>
+        <item>las</item>
+        <item>jezioro</item>
+        <item>wodospad</item>
+        <item>chmury</item>
+        <item>zima</item>
+        <item>lato</item>
+        <item>jesien</item>
+        <item>wiosna</item>
+        <item>piasek</item>
+        <item>fala</item>
+    </string-array>
+
+    <string name="a">A</string>
+    <string name="b">B</string>
+    <string name="c">C</string>
+    <string name="d">D</string>
+    <string name="e">E</string>
+    <string name="f">F</string>
+    <string name="g">G</string>
+    <string name="h">H</string>
+    <string name="i">I</string>
+    <string name="j">J</string>
+    <string name="k">K</string>
+    <string name="l">L</string>
+    <string name="m">M</string>
+    <string name="n">N</string>
+    <string name="o">O</string>
+    <string name="p">P</string>
+    <string name="r">R</string>
+    <string name="s">S</string>
+    <string name="t">T</string>
+    <string name="u">U</string>
+    <string name="w">W</string>
+    <string name="z">Z</string>
+    <string name="YouWon">You won</string>
+    <string name="Looser">You lost this battle. But not a war! Try again in HangmanPremium.</string>
+    <string name="replay">Replay</string>
+
+</resources>
